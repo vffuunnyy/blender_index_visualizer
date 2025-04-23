@@ -44,8 +44,7 @@
 ## Технические детали
 - ID хранятся в custom data layers: `persistent_vert_id`, `persistent_edge_id`, `persistent_face_id`
 - Состояние выделения сохраняется в слоях: `iv_vert_selected`, `iv_edge_selected`, `iv_face_selected`
-- Нумерация элементов начинается с 1 (а не с 0 как в стандартных индексах Blender)
-- ID -1 означает, что персистентный ID не назначен
+- Нумерация элементов начинается с 1
 
 ## Системные требования
 - Blender 4.0+
