@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "index_visualizer"
+version = "1.0.1"
+name = "Index Visualizer"
+tagline = "Аддон для отображения индексов вершин, рёбер и плоскостей"
+maintainer = "vffuunnyy"
+type = "add-on"
+
+blender_version_min = "4.0.0"
+
+license = ["MIT"]
+
+tags = ["3D View", "Mesh", "Interface", "Development"]
+category = "3D View"
+location = "View3D > Sidebar > Tool"
